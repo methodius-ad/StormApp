@@ -1,0 +1,65 @@
+{
+  "office":
+[
+  {
+    "id": 1,
+    "city": "Castlepollard",
+    "address": "90832 Drewry Circle",
+    "phone": "971-343-8386"
+  },
+  {
+    "id": 2,
+    "city": "Tchoban Bey",
+    "address": "998 Algoma Road",
+    "phone": "284-678-7749"
+  },
+  {
+    "id": 3,
+    "city": "Tuoshi",
+    "address": "44604 Marcy Road",
+    "phone": "326-697-6989"
+  },
+  {
+    "id": 4,
+    "city": "Sharan",
+    "address": "6 Maple Junction",
+    "phone": "990-672-0447"
+  },
+  {
+    "id": 5,
+    "city": "Machagai",
+    "address": "41 Lerdahl Junction",
+    "phone": "752-694-8160"
+  },
+  {
+    "id": 6,
+    "city": "Ciketak",
+    "address": "7 Bunker Hill Pass",
+    "phone": "538-934-0904"
+  },
+  {
+    "id": 7,
+    "city": "Sysert’",
+    "address": "469 Sycamore Center",
+    "phone": "257-308-6472"
+  },
+  {
+    "id": 8,
+    "city": "Ojo de Agua",
+    "address": "5553 Sachtjen Hill",
+    "phone": "282-709-1657"
+  },
+  {
+    "id": 9,
+    "city": "Viengxay",
+    "address": "7 Russell Court",
+    "phone": "938-374-0375"
+  },
+  {
+    "id": 10,
+    "city": "Rendui",
+    "address": "63 Sachtjen Parkway",
+    "phone": "827-171-2534"
+  }
+]
+}

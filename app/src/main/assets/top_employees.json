@@ -1,0 +1,44 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "first_name": "Norma",
+      "last_name": "Tomaschke",
+      "email": "ntomaschke0@foxnews.com",
+      "gender": "Polygender",
+      "department": "Engineering"
+    },
+    {
+      "id": 2,
+      "first_name": "Bernardo",
+      "last_name": "Endicott",
+      "email": "bendicott1@google.cn",
+      "gender": "Genderqueer",
+      "department": "Product Management"
+    },
+    {
+      "id": 3,
+      "first_name": "Joli",
+      "last_name": "Cavell",
+      "email": "jcavell2@slashdot.org",
+      "gender": "Polygender",
+      "department": "Research and Development"
+    },
+    {
+      "id": 4,
+      "first_name": "Collen",
+      "last_name": "Antonetti",
+      "email": "cantonetti3@pen.io",
+      "gender": "Polygender",
+      "department": "Research and Development"
+    },
+    {
+      "id": 5,
+      "first_name": "Candra",
+      "last_name": "Pretsell",
+      "email": "cpretsell4@flavors.me",
+      "gender": "Bigender",
+      "department": "Services"
+    }
+  ]
+}

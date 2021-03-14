@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StormApp</string>
+    <string name="top_employees">top employees</string>
+    <string name="offices">offices</string>
+</resources>
