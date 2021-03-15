@@ -17,7 +17,7 @@ class DetailActivity : AppCompatActivity() {
     private lateinit var videoView: VideoView
     private lateinit var fragment: Fragment
 
-    private val videoURL: String = "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    private val videoURL: String = "https://www.youtube.com/watch?v=sOnqjkJTMaA"
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -42,7 +42,7 @@ class DetailActivity : AppCompatActivity() {
                 videoView.pause()
             }
         } catch (e: Exception) {
-            Toast.makeText(this, "fail", Toast.LENGTH_SHORT).show()
+            e.printStackTrace()
         }
         videoView.requestFocus()
         videoView.setOnPreparedListener {
